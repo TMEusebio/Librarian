@@ -1,5 +1,4 @@
 # Librarian - Personal Book Cataloging Assistant
-# First run on terminal: pip install requests pandas openpyxl
 
 import requests     # Used to fetch book details from the Open Library API.
 import pandas as pd # Helps in managing and storing book data in an Excel file.
