@@ -42,7 +42,7 @@ Enter ISBN: 9780140449136
  4) Publisher              :      Penguin Classics
  5) Year of Publication    :            1992
 ---------------------------------------------------------------
-Are the book data correct? (y/n): y
+Confirm book details (y/n): y
 
 Please enter the following fields manually:
 Year of First Edition: 1914
@@ -51,7 +51,7 @@ Text language: English
 Genre: Fiction
 Nationality: Irish
 Obs.: Short story collection
-Read by (C/T/CT): CT
+Read: Yes
 ---------------------------------------------------------------
 Congratulations! A new book was added to the library!
 ---------------------------------------------------------------
