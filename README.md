@@ -77,4 +77,6 @@ Each book entry is stored in an Excel file (`library.xlsx`) with the following c
 ## Contributions
 Feel free to fork this repository, submit pull requests, or suggest improvements!
 
+## License
+This project is licensed under the GPL License (aka GNU General Public License v3.0).
 
